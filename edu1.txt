@@ -1,1 +1,2 @@
 Moj fail prvi izradeni
+fail 1
